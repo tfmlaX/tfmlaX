@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tfmlaX
 - 👀 I’m interested in open quantum systems
-- 🌱 I’m currently learning how to be a good postdoc candidate in quantum physics 
+- 🌱 I’m currently learning how to be a good postdoc in quantum physics 
 - 💞️ I’m looking to collaborate on open quantum systems, quantum information, quantum thermodynamics, etc.
 - 📫 You can reach me [on twitter](https://twitter.com/ThibautLacroix)
 
