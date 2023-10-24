@@ -2,7 +2,7 @@
 - 👀 I’m interested in open quantum systems
 - 🌱 I’m currently learning how to be a good postdoc in quantum physics 
 - 💞️ I’m looking to collaborate on open quantum systems, quantum information, quantum thermodynamics, etc.
-- 📫 You can reach me [on twitter](https://twitter.com/ThibautLacroix)
+- 📫 You can reach me [on mastodon](https://mastodon.online/@thibautlacroix)
 
 <!---
 tfmlaX/tfmlaX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
