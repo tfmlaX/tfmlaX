@@ -4,4 +4,4 @@ I’m postdoctoral researcher at the Institute of Theoretical Physics, Ulm Unive
 
 I’m always happy to collaborate on open quantum systems, quantum biology, numerical methods for quantum physics, quantum information, quantum thermodynamics, etc.
 
-📫 You can reach me [on mastodon](https://mastodon.online/@thibautlacroix), [on Twitter](https://twitter.com/ThibautLacroix), and by email.
+📫 You can reach me [on mastodon](https://mastodon.online/@thibautlacroix), [on Bluesky](https://bsky.app/profile/thibautlacroix.bsky.social), and by email.
